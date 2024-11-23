@@ -1,0 +1,29 @@
+PRODUCTS
+	Create Product
+	Filter Product
+	Get All Products
+	Get Product By Id
+	Delet Product
+
+CART
+	Create Cart
+	Add Cart Item
+	Find User cart
+
+ORDERS
+	Create Order
+	Find Order By Id
+  	User Order History
+	Placed Order
+	Confirmed Order
+	Shipped Order
+	Delivered Order
+
+ORDER ITEMS
+	Create Order Items
+
+RATINGS
+	Create Rating
+	Get Products Rating
+
+REVIEWS
